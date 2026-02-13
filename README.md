@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Christy</h1>
+<h1 align="left">Hello 👋, I'm Christy</h1>
 <h3 align="left">I'm now studying Master of Computer Science at the University of Sydney with a passion for full-stack web development, Cloud Computing and Large Language Model.</h3>
 
 - 🔭 I’m currently working on **full-stack projects and diving deeper into cloud technologies.**
