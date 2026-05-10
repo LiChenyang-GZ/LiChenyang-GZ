@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [My Gitbook](https://christy-blog.gitbook.io/ctrl+s-knowledge/).
 
-- 🗒️ If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I recorded all my study notes on data analysis/data science skills in the ear without GPT.
+- 🗒️ If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I wrote all my study notes on data analysis/data science skills in the ear without GPT.
 
 - 👀 I can speak 3 languages (English, Cantonese, Mandarin)
 
