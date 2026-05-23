@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **full-stack projects and diving deeper into cloud technologies.**
 
+- 👩‍💻 I'm now a Software Developer in [Blotz-Task-App](https://github.com/sol-wizard/Blotz-Task-App)
+
 - 🌱 I’m currently learning **Full Stack Development & Large Language Model**
 
 - Here is my [Portfolio](https://lichenyang-gz.github.io/my-personal-website/)
